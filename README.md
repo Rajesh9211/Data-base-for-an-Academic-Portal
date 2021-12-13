@@ -1,0 +1,2 @@
+# Data-base-for-an-Academic-Portal
+Developed an academic portal database management system that offers a wide range of functionality such as adding records of students, faculty, dean and create separate login privileges for the same. The project also provided the means for students enrollments in courses with support for faculties to add prerequisites, ticket generation in case the prerequisites were not met, grade updation, cgpa calculation and checking if the student was ready to graduate.
